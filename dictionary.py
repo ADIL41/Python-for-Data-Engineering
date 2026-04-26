@@ -5,3 +5,11 @@ my_dictionary={
   "color":"red"
 }
 print(my_dictionary)
+
+my_dictionary["model"]=2022 # added new valute to model key
+print(my_dictionary)
+
+print (my_dictionary.items())
+
+
+
